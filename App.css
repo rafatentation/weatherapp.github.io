@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+80s+Fade&display=swap');
+*
+{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.search {
+  min-height: 10vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-bottom: 1px solid white;
+  background-color: black;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+input,button
+{
+  padding: 0.5rem 1rem;
+  margin-left: 10px;
+  font-size: 1rem;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background-color: whitesmoke;
+}
+
+h1{
+font-family: 'Rubik 80s Fade', cursive;
+color: black;
+opacity: 0.8;
+}

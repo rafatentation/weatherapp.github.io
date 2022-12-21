@@ -1,0 +1,33 @@
+* {
+ margin: 100%;
+ padding: 100%;
+ box-sizing: border-box;
+ background-image: url(https://cdn.vuetifyjs.com/images/parallax/material2.jpg);
+}
+.header-text{
+    font-family: cursive;
+}
+.result{
+    display: flex;
+    min-height: 23vh;
+    width: 80%;
+    margin: auto;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid white
+    
+}
+
+ul{
+    width: 50%;
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 1rem;
+}
+
+h2{
+    margin-left: 20px;
+    
+}
